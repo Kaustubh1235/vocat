@@ -1,4 +1,4 @@
-```markdown
+
 # Vocat - Low-Latency Voice AI
 
 A real-time voice conversation system with sub-second latency using WebRTC, VAD, Whisper, GPT-4, and ElevenLabs TTS with Redis caching.
